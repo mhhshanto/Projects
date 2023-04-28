@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../Desktop/sprcbd"
+	},
+	{
+		"path": "../Downloads/docter youtube"
+	},
+	{
+		"path": "../Downloads/hospital website"
+	},
+	{
+		"path": "../Downloads/health care website 3"
+	},
+	{
+		"path": "NextJs/next_13_crash"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hospital website"
+  }
+}
